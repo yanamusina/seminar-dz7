@@ -1,0 +1,15 @@
+C:\Users\яно4ка\Desktop\с#\c# дз\с#dz7\task50\obj\Debug\net6.0\task50.csproj.AssemblyReference.cache
+C:\Users\яно4ка\Desktop\с#\c# дз\с#dz7\task50\obj\Debug\net6.0\task50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\яно4ка\Desktop\с#\c# дз\с#dz7\task50\obj\Debug\net6.0\task50.AssemblyInfoInputs.cache
+C:\Users\яно4ка\Desktop\с#\c# дз\с#dz7\task50\obj\Debug\net6.0\task50.AssemblyInfo.cs
+C:\Users\яно4ка\Desktop\с#\c# дз\с#dz7\task50\obj\Debug\net6.0\task50.csproj.CoreCompileInputs.cache
+C:\Users\яно4ка\Desktop\с#\c# дз\с#dz7\task50\bin\Debug\net6.0\task50.exe
+C:\Users\яно4ка\Desktop\с#\c# дз\с#dz7\task50\bin\Debug\net6.0\task50.deps.json
+C:\Users\яно4ка\Desktop\с#\c# дз\с#dz7\task50\bin\Debug\net6.0\task50.runtimeconfig.json
+C:\Users\яно4ка\Desktop\с#\c# дз\с#dz7\task50\bin\Debug\net6.0\task50.dll
+C:\Users\яно4ка\Desktop\с#\c# дз\с#dz7\task50\bin\Debug\net6.0\task50.pdb
+C:\Users\яно4ка\Desktop\с#\c# дз\с#dz7\task50\obj\Debug\net6.0\task50.dll
+C:\Users\яно4ка\Desktop\с#\c# дз\с#dz7\task50\obj\Debug\net6.0\refint\task50.dll
+C:\Users\яно4ка\Desktop\с#\c# дз\с#dz7\task50\obj\Debug\net6.0\task50.pdb
+C:\Users\яно4ка\Desktop\с#\c# дз\с#dz7\task50\obj\Debug\net6.0\task50.genruntimeconfig.cache
+C:\Users\яно4ка\Desktop\с#\c# дз\с#dz7\task50\obj\Debug\net6.0\ref\task50.dll
